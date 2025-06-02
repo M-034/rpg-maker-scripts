@@ -6,6 +6,7 @@
 
 ◆変数_整数型
 $gameVariables.value(1)：マップ上に表示されるイベントの最大数
+$gameVariables.value(11)：各イベント間の最短距離
 */
 
 if($gameVariables.value(1) <= 9){

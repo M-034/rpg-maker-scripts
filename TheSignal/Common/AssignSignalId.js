@@ -16,7 +16,7 @@ $gameVariables.value(59)：ランダム生成したIDの一時的な格納先
 
 ◆変数_論理型
 $gameSwitches.value(1)：IDが確定したかどうか
-$gameSwitches.value(1)：既に割り当て済みの数字かどうか
+$gameSwitches.value(2)：既に割り当て済みの数字かどうか
 */
 
 for(let i = 1; i <= $gameVariables.value(1); i++){
